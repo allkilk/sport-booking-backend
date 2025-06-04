@@ -1,2 +1,3 @@
-# sport-booking-backend
-Backend per web app di prenotazione campi sportivi
+# Backend Sport Booking
+
+API per prenotazione campi sportivi.
